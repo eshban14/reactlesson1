@@ -1,0 +1,11 @@
+
+
+.sidebar{
+    width: 300px;
+    height: 400px;
+    float: left;
+    background: orange;
+}
+.sidebar h1{
+    color: white;
+}
